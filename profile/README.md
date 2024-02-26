@@ -14,7 +14,8 @@ INVEBIT offers a comprehensive suite of Bitcoin-based financial services, each d
 - Investments: We offer long-term investment options like vaults and staking with fixed returns. Clients can also create portfolios with two or more assets.
 
 - Peer-to-Peer (P2P) / Over-the-Counter (OTC): This service allows clients to buy Bitcoin directly from other users or in large quantities.
-Payment Solutions: We provide infrastructure for merchants and ecommerce platforms to accept Bitcoin payments.
+
+- Payment Solutions: We provide infrastructure for merchants and ecommerce platforms to accept Bitcoin payments.
 
 - Decentralized Exchange (DEX): A platform where clients can trade realworld, highly selected Bitcoin-based assets, primarily via Bitcoin, Lightning Network and RGB layer.
 
