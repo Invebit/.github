@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Invebit/.github" title="Invebit">
-    <img alt="FireBolt" profile=".github/profile/PNG Invebit.png" width="150"></img>
+    <img alt="FireBolt" profile=".github/profile/PNGInvebit.png" width="150"></img>
   </a>
 </p>
 
