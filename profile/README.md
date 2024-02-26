@@ -1,12 +1,14 @@
 ## Invebit: The most complete and secure Bitcoin-based financial ecosystem in the World 
 
+
+
 INVEBIT, a name derived from Investments Bitcoin, is a pioneering financial ecosystem exclusively built around Bitcoin.
 
 ## Provided Services, products and Ecosystem:
 
 INVEBIT offers a comprehensive suite of Bitcoin-based financial services, each designed to cater to the unique needs of our clients. Here's a detailed look at our offerings:
 
- - Wallet/Custody: Our secure platform provides a wallet service that enables clients to store, send, and receive Bitcoin independently. It seamlessly integrates with hardware wallets for enhanced security and offers an optional custody solution with multi-signature capabilities should a client choose to have INVEBIT safeguard their assets.
+ - [Wallet/Custody: Our secure platform provides a wallet service that enables clients to store, send, and receive Bitcoin independently. It seamlessly integrates with hardware wallets for enhanced security and offers an optional custody solution with multi-signature capabilities should a client choose to have INVEBIT safeguard their assets.](https://github.com/Invebit/wallet)
 
 - Dollar Cost Averaging (DCA): This service enables clients to automatically purchase Bitcoin on a weekly or monthly basis, facilitating a steady accumulation plan.
 
