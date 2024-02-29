@@ -17,6 +17,6 @@ INVEBIT offers a comprehensive suite of Bitcoin-based financial services, each d
 
 - Payment Solutions: We provide infrastructure for merchants and ecommerce platforms to accept Bitcoin payments.
 
-- Decentralized Exchange (DEX): A platform where clients can trade realworld, highly selected Bitcoin-based assets, primarily via Bitcoin, Lightning Network and RGB layer.
+- Decentralized Exchange (DEX): A platform where clients can trade real worl (RWAs), highly selected Bitcoin-based assets, primarily via Bitcoin, Lightning Network and RGB protocol.
 
 - Education / Consulting: We offer courses and consulting services to educate clients about Bitcoin, financial planning, and tokenizing assets on Bitcoin.
