@@ -1,4 +1,4 @@
-## Invebit: The most complete and secure Bitcoin-based financial ecosystem in the World 
+## Invebit: The most complete and secure Bitcoin-based financial ecosystem in the World ⚡
 
 
 INVEBIT, a name derived from Investments Bitcoin, is a pioneering financial ecosystem exclusively built around Bitcoin.
