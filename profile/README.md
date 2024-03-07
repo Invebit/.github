@@ -7,7 +7,9 @@ INVEBIT, a name derived from Investments Bitcoin, is a pioneering financial ecos
 
 INVEBIT offers a comprehensive suite of Bitcoin-based financial services, each designed to cater to the unique needs of our clients. Here's a detailed look at our offerings:
 
- - [Wallet/Custody: Our secure platform provides a wallet service that enables clients to store, send, and receive Bitcoin independently. It seamlessly integrates with hardware wallets for enhanced security and offers an optional custody solution with multi-signature capabilities should a client choose to have INVEBIT safeguard their assets.](https://github.com/Invebit/wallet)
+ - [Wallet/Custody: Our secure platform provides a wallet service that enables clients to store, send, and receive Bitcoin independently. It seamlessly integrates with hardware wallets for enhanced security and offers an optional custody solution with multi-signature capabilities should a client choose to have INVEBIT safeguard their assets.](https://github.com/Invebit/wallet):
+
+* [Invebit Wallet - Chrome Extension](https://chromewebstore.google.com/detail/invebit-wallet/mnnjgmgeflihklepbcoepabjfoilndil)
 
 - Dollar Cost Averaging (DCA): This service enables clients to automatically purchase Bitcoin on a weekly or monthly basis, facilitating a steady accumulation plan.
   
